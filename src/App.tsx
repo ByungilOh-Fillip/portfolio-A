@@ -48,8 +48,8 @@ function App() {
           </main>
 
           <footer className="py-8 text-center text-game-muted font-mono text-sm border-t border-game-card">
-            <p>Built for Nexon Nectorial Application</p>
-            <p className="mt-2 text-xs">React, Tailwind CSS, Framer Motion</p>
+            <p>© {new Date().getFullYear()} Oh Byungil. All rights reserved.</p>
+            <p className="mt-2 text-xs">Game Client Programmer Portfolio | Built with React, Tailwind CSS, Framer Motion</p>
           </footer>
         </div>
       </Router>
