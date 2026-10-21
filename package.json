@@ -1,5 +1,5 @@
 {
-  "name": "portfolio2",
+  "name": "portfolio-a",
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -33,5 +33,5 @@
     "typescript": "~6.0.2",
     "vite": "^8.2.2"
   },
-  "homepage": "https://ByungilOh-Fillip.github.io/portfolio-for-nexon"
+  "homepage": "https://ByungilOh-Fillip.github.io/portfolio-A"
 }
